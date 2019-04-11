@@ -1,0 +1,7 @@
+{
+  "uuid":"part-usage@cinnamon.org",
+  "name":"Partition Usage",
+  "description":"Partition Usage Applet",
+  "icon":"emblem-generic",
+  "max-instances":"1"
+}

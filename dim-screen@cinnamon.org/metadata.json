@@ -1,0 +1,7 @@
+{
+  "uuid":"dim-screen@cinnamon.org",
+  "name":"Dim Screen",
+  "description":"Dim Screen Applet",
+  "icon":"emblem-generic",
+  "max-instances":"1"
+}

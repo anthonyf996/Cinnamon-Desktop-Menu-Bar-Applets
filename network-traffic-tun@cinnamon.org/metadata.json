@@ -1,0 +1,7 @@
+{
+  "uuid":"network-traffic-tun@cinnamon.org",
+  "name":"Network Traffic Tunnel Icon",
+  "description":"Network Traffic Tunnel Applet",
+  "icon":"emblem-generic",
+  "max-instances":"1"
+}

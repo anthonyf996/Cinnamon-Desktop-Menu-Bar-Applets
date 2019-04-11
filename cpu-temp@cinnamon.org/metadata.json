@@ -1,0 +1,7 @@
+{
+  "uuid":"cpu-temp@cinnamon.org",
+  "name":"Cpu Temperature",
+  "description":"Cpu Temperature Applet",
+  "icon":"emblem-generic",
+  "max-instances":"1"
+}

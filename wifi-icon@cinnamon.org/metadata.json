@@ -1,0 +1,7 @@
+{
+  "uuid":"wifi-icon@cinnamon.org",
+  "name":"Wifi Status Icon",
+  "description":"Wifi Status Icon Applet",
+  "icon":"emblem-generic",
+  "max-instances":"1"
+}

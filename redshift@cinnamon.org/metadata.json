@@ -1,0 +1,7 @@
+{
+  "uuid":"redshift@cinnamon.org",
+  "name":"Red Shift",
+  "description":"Toggle Screen Red Shift",
+  "icon":"emblem-generic",
+  "max-instances":"1"
+}

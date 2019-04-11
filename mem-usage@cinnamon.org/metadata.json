@@ -1,0 +1,7 @@
+{
+  "uuid":"mem-usage@cinnamon.org",
+  "name":"Memory Usage",
+  "description":"Memory Usage Applet",
+  "icon":"emblem-generic",
+  "max-instances":"1"
+}

@@ -1,0 +1,7 @@
+{
+  "uuid":"cpu-usage@cinnamon.org",
+  "name":"Cpu Usage",
+  "description":"Cpu Usage Applet",
+  "icon":"emblem-generic",
+  "max-instances":"1"
+}

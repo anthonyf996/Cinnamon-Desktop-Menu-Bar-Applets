@@ -1,0 +1,7 @@
+{
+  "uuid":"root-part-usage@cinnamon.org",
+  "name":"Root Partition Usage",
+  "description":"Root Partition Usage Applet",
+  "icon":"emblem-generic",
+  "max-instances":"1"
+}
